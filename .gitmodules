@@ -1,0 +1,3 @@
+[submodule "household-chore-app"]
+	path = household-chore-app
+	url = https://github.com/Robyrogers/household-chore-app.git
